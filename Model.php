@@ -1,6 +1,5 @@
 <?php
 
-namespace framework;
 
 //数据库操作类
 class Model

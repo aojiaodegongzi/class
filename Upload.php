@@ -1,6 +1,5 @@
 <?php
 
-namespace framework;
 
 class Upload
 {
