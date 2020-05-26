@@ -1,1 +1,5 @@
-hello Word
+<?php
+
+echo date();
+
+?>
